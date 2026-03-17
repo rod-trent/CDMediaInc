@@ -66,14 +66,6 @@ If you are located outside the United States, your information may be transferre
 ### 10. Third-Party Links  
 Our Services may contain links to third-party websites or services. This Privacy Policy does not apply to them, and we are not responsible for their privacy practices. We encourage you to review their policies.  
 
-### 11. Contact Us  
-If you have questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us at:  
-
-CD Media, Inc.  
-[Insert Physical Address, e.g., Middletown, Ohio, or primary business address]  
-Email: [Insert Contact Email]  
-Phone: [Insert Phone Number]  
-
 For CCPA or other privacy rights requests, please include “Privacy Rights Request” in the subject line.  
 
 This Privacy Policy is provided for informational purposes and is not intended as legal advice. We recommend consulting with a qualified attorney to ensure full compliance with all applicable laws relevant to your specific situation and jurisdiction.  
@@ -82,4 +74,3 @@ This Privacy Policy is provided for informational purposes and is not intended a
 
 ---
 
-**Note**: This is a **customized sample Privacy Policy** drafted based on the description you provided and standard best practices for a U.S.-based company offering content creation, applications, and business solutions. It is **not legal advice** and may not fully satisfy every legal requirement (e.g., specific CCPA notices, GDPR if you serve EU residents, or state-by-state variations). Laws evolve, so have this reviewed and tailored by a privacy attorney before publishing or using it. You should replace placeholders (e.g., contact details, exact address) with your accurate information and add any specifics about data practices unique to your operations.
