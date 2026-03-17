@@ -1,5 +1,5 @@
-** Privacy Policy **  
-**CD Media, Inc.**  
+# Privacy Policy 
+## CD Media, Inc.   
 
 
 At CD Media, Inc., we specialize in creating innovative content and applications tailored to meet your business needs. Our expert team leverages the latest technology to deliver solutions that drive growth and efficiency. We are committed to protecting your privacy and handling your personal information responsibly and transparently.  
